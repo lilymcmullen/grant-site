@@ -1,0 +1,30 @@
+---
+title: "AIM 1: Data in the Wild"
+subtitle: "Broadening Early Participation Through the General Education Curriculum"
+---
+
+## Overview
+
+*Data in the Wild* is an introductory data science course developed as part of this grant and taught in the general education curriculum at both UA and LC. The course uses biodiversity and conservation as its narrative, guiding students through data science concepts and skills by working with real ecological data to address conservation questions.
+
+The course was designed to reach students early in their undergraduate careers, before they might self-select into or out of data science, and to serve students across all majors, not only those already pursuing STEM degrees.
+
+## Course Tracks
+
+**University of Arizona** Taught through the College of Agriculture and Life Sciences with a computational emphasis. The course focuses on R programming, data wrangling, visualization, and analysis. It can serve as preparation for machine learning or AI coursework and is open to students fulfilling general education requirements across all majors.
+
+**Lewis & Clark College** Taught as part of LC's quantitative reasoning general education requirement with a statistics emphasis. The course draws on LC's tradition of student-centered pedagogy and is designed for a broad liberal arts student population.
+
+## What Students Did
+
+Students in both tracks worked with real, publicly available biodiversity and ecological datasets \[enter names of datasets/details here\] to explore conservation questions. Students applied data science tools to a running narrative across the semester...
+
+By the end of the course, students were able to acquire, clean, visualize, and analyze ecological data and communicate their findings in written and visual form.
+
+Compare UA and LC student outcomes...
+
+## Course Materials
+
+Full course materials are openly available and designed to be adaptable for use at other institutions.
+
+[**Visit the Data in the Wild Course Site →**](https://biodiversitydatasciencecorp.github.io/DataInTheWild_Website/){target="_blank"}

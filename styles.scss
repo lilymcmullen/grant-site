@@ -1,0 +1,114 @@
+/*-- scss:defaults --*/
+
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Righteous&family=Vollkorn:ital,wght@0,400..900;1,400..900&display=swap');
+
+// Colors
+$blanched-almond: #FFEBCD;
+$cornflower-blue: #6495ED;
+$dark-blue: #1E4557;
+$darkest-blue: #0F222B;
+$dark-cyan: #008B8B;
+$dark-olive-green: #39471F;
+$lavender: #5D518A;
+$magenta: #8A1665;
+$olive: #55733D;
+$saddlebrown: #8B4513;
+$slate-grey: #C6E2FF;
+
+// Base document colors
+$navbar-bg: $dark-blue;
+$navbar-fg: $blanched-almond;
+$navbar-hl: $slate-grey;
+$page-footer-hl: $slate-grey;
+$link-color: $magenta;
+
+/*-- scss:rules --*/
+
+// Title
+.title {
+  font-family: "Vollkorn";
+  font-size: 45px;
+}
+
+.subtitle {
+  font-family: "Raleway";
+  font-weight: 500;
+}
+
+// Headers
+h1, h2, h3 {
+  font-family: "Vollkorn";
+  color: $darkest-blue;
+}
+
+// Navbar - only visible on mobile when sidebar is hidden
+.navbar {
+  font-family: "Righteous";
+}
+
+// Hide navbar logo on desktop since sidebar has the logo
+@media (min-width: 992px) {
+  .navbar-brand img {
+    display: none;
+  }
+}
+
+// Sidebar
+.sidebar {
+  font-family: "Righteous";
+  font-size: 1rem;
+}
+
+.sidebar-item .sidebar-item-text {
+  padding-top: 0.4em;
+  padding-bottom: 0.4em;
+  letter-spacing: 0.03em;
+}
+
+.sidebar-item-container .active {
+  color: $magenta;
+  font-weight: 700;
+}
+
+.sidebar nav.sidebar-nav {
+  padding-top: 1em;
+}
+
+// Sidebar logo
+.sidebar-logo {
+  width: 160px;
+  height: 160px;
+  object-fit: contain;
+  display: block;
+  margin: 1em auto;
+}
+
+// Body
+body {
+  font-family: "Raleway";
+  color: $dark-blue;
+  font-weight: 500;
+}
+
+// Links
+a {
+  color: $magenta;
+  text-decoration: none;
+}
+
+a:hover {
+  color: darken($magenta, 10%);
+  text-decoration: underline;
+}
+
+// Mobile
+@media (max-width: 768px) {
+  .title {
+    font-size: 32px;
+  }
+
+  body {
+    font-size: 14px;
+  }
+}

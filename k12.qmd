@@ -1,0 +1,28 @@
+---
+title: "K-12 Data Science Outreach"
+subtitle: "Education for Grades 4-12"
+---
+
+![](images/paste-7.png){width="400"}
+
+## Overview
+
+Through a supplemental award, this program extended its reach into secondary education. In partnership with The Bio/Diversity Project, an established environmental education internship program between UA, Saguaro National Park, and Tucson-area Title I schools, undergraduate interns developed and delivered data science lessons in grades 4-12 classrooms.
+
+The supplemental program ran during years 2 and 3 of the active award. It was designed to create an earlier on-ramp to data science education while simultaneously deepening the professional development of the undergraduate interns who delivered the lessons.
+
+## The Bio/Diversity Project Partnership
+
+The Bio/Diversity Project has operated for over five years, training UA undergraduates to deliver high-quality, culturally-responsive environmental science lessons in Tucson-area Title I schools. For this supplemental award, a data science track was added to the existing internship. Interns received training in data science fundamentals from grant researchers and local conservation organizations, as well as pedagogical training from Bio/Diversity Project staff.
+
+![](images/paste-8.png){width="400"}
+
+## What We Did
+
+Undergraduate interns worked with partner teachers at Title I middle and high schools to develop and implement data science lessons aligned with Arizona state science standards. Lessons were grounded in local ecology and environmental data and culminated in student-driven action projects in which students used real-world data to investigate their local environment.
+
+![](images/paste-5.png){width="400"}
+
+## Curriculum
+
+Lessons developed through this program are openly available through...

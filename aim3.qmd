@@ -1,0 +1,28 @@
+---
+title: "AIM 3: Faculty Professional Development"
+subtitle: "Broadening Instructional Capacity"
+---
+
+## Overview
+
+The third component of this program addressed the instructional side of the data science education gap. Even when institutions want to integrate data science into existing STEM curricula, faculty often lack the training and support to do so effectively. This program provided that support through a two-part summer professional development sequence offered to faculty at both UA and LC.
+
+## Program Structure
+
+### Part 1: Pedagogical Training
+
+A six-week online summer program covering evidence-based practices for teaching computational and data science skills.
+
+### Part 2: Module Development Workshop
+
+A follow-on six-week workshop in which participants developed data science educational modules for deployment in their own courses.
+
+## Participants
+
+Faculty and instructional staff from across both institutions participated. Participants brought varying levels of prior experience with data science and programming, and the program was designed to be accessible regardless of background.
+
+## Materials
+
+Data science modules developed through this program are shared openly for use and adaptation at other institutions.
+
+[Visit the **Instructional Data Science Pedagogy** Site →](https://biodiversitydatasciencecorp.github.io/Instructional-Pedagogy/)

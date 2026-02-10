@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "HDR Data Science Corps"
+  favicon: images/bdsc-logo-hex.png
+  search: false
+
+  navbar:
+    logo: images/bdsc-logo-hex.png
+
+  sidebar:
+    logo: images/bdsc-logo-hex.png
+    background: $blanched-almond
+    align: center
+    style: docked
+    collapse-level: 3
+    contents:
+      - index.qmd
+      - about.qmd
+      - team.qmd
+      - text: "---"
+      - aim1.qmd
+      - aim2.qmd
+      - aim3.qmd
+      - k12.qmd
+      - text: "---"
+      - resources.qmd
+
+  page-footer:
+    background: $dark-blue
+    foreground: $blanched-almond
+    left: "2026, University of Arizona & Lewis & Clark College"
+    right:
+      - href: https://quarto.org/
+        text: "Made with Quarto"
+      - href: https://github.com/BiodiversityDataScienceCorp
+        icon: github
+
+format:
+  html:
+    theme:
+      - styles.scss
+    mainfont: "Raleway"
+    toc: false
+    page-layout: full
+
+editor: visual

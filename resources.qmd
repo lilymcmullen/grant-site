@@ -1,0 +1,29 @@
+---
+title: "Resources"
+---
+
+## Curriculum & Course Materials
+
+**AIM 1: Data in the Wild - UA Track**
+
+-   List resources / links here...
+
+**AIM 1: Data in the Wild - LC Track**
+
+**AIM 3: Faculty Development Modules**
+
+**K-12 Lessons**
+
+## Data Sources Used in the Program
+
+-   [GBIF Global Biodiversity Information Facility](https://www.gbif.org/){target="_blank"}
+-   [iNaturalist](https://www.inaturalist.org/){target="_blank"}
+-   [eBird](https://ebird.org/){target="_blank"}
+-   [National Phenology Network](https://www.usanpn.org/){target="_blank"}
+-   [MODIS](https://modis.gsfc.nasa.gov/){target="_blank"}
+
+## GitHub
+
+Our organization's GitHub page:
+
+[github.com/BiodiversityDataScienceCorp](https://github.com/BiodiversityDataScienceCorp){target="_blank"}

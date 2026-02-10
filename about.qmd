@@ -1,0 +1,29 @@
+---
+title: "About the Grant"
+---
+
+## Overview
+
+This program was funded by the National Science Foundation under the Harnessing the Data Revolution (HDR) Data Science Corps (DSC) initiative. It brought together the **University of Arizona** (UA) and **Lewis & Clark College** (LC) to build and test data science curriculum that could be integrated into existing undergraduate STEM programs and general education requirements.
+
+The program was motivated by a well-documented gap in undergraduate data science education: demand for data-trained professionals has outpaced what higher education produces, and most STEM students do not encounter meaningful data science training until late in their degree, if at all. Rather than creating standalone data science degree programs, this project embedded data science training into curricula students were already taking, using biodiversity and conservation as the context.
+
+## Institutional Partners
+
+**University of Arizona** UA served as the coordinating organization for the DSC program. As the only four-year Hispanic-Serving Institution (HSI) and land-grant university in Arizona, UA brought research infrastructure, computational resources, and a large, diverse student population. The program was housed in the School of Natural Resources and the Environment within the College of Agriculture and Life Sciences.
+
+**Lewis & Clark College** LC is a primarily undergraduate liberal arts college in Portland, Oregon. LC contributed expertise in undergraduate pedagogy, student-centered teaching, and quantitative reasoning curriculum. The timing of the grant aligned with LC's launch of a new general education core requiring quantitative reasoning, making it a platform for the Data in the Wild course.
+
+## Broader Impacts
+
+The general education framing of AIM 1 allowed students across all majors to encounter data science early in their undergraduate careers without requiring a dedicated data science degree path. At UA, an HSI, this created pathways for students from groups historically underrepresented in data science and STEM.
+
+All curriculum developed through this program was designed to follow FAIR data principles and is openly available for adoption and adaptation.
+
+[Add more statistics about impact here]
+
+## Support
+
+This project was supported by the National Science Foundation under the Harnessing the Data Revolution (HDR) Data Science Corps (DSC) program.
+
+For questions or to learn more about adopting these materials, visit our [GitHub organization](https://github.com/BiodiversityDataScienceCorp){target="_blank"}.

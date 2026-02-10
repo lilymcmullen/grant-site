@@ -1,0 +1,21 @@
+---
+title: "Meet the Team"
+---
+
+This program was a collaboration between faculty, staff, and students at the University of Arizona and Lewis & Clark College.
+
+For information about the project team visit our GitHub:
+
+[github.com/BiodiversityDataScienceCorp](https://github.com/BiodiversityDataScienceCorp){target="_blank"}
+
+## Project Leadership
+
+**Kathleen L. Prudic, PhD** - University of Arizona, Principal Investigator
+
+**Greta Binford, PhD** - Lewis & Clark College, Co-Investigator
+
+**Jeff Oliver, PhD** - University of Arizona, Co-Investigator
+
+**Ellen Bledsoe, PhD** - University of Arizona, Professor of Practice in Ecological Data Science
+
+**Jeremy McWilliams** - Lewis & Clark College, Head of Digital Services

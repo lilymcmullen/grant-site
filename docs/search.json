@@ -1,0 +1,438 @@
+[
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Meet the Team",
+    "section": "",
+    "text": "This program was a collaboration between faculty, staff, and students at the University of Arizona and Lewis & Clark College.\nFor information about the project team visit our GitHub:\ngithub.com/BiodiversityDataScienceCorp",
+    "crumbs": [
+      "Meet the Team"
+    ]
+  },
+  {
+    "objectID": "team.html#project-leadership",
+    "href": "team.html#project-leadership",
+    "title": "Meet the Team",
+    "section": "Project Leadership",
+    "text": "Project Leadership\nKathleen L. Prudic, PhD — University of Arizona, Principal Investigator\nGreta Binford, PhD — Lewis & Clark College, Co-Investigator\nJeff Oliver, PhD — University of Arizona, Co-Investigator\nEllen Bledsoe, PhD — University of Arizona, Professor of Practice in Ecological Data Science",
+    "crumbs": [
+      "Meet the Team"
+    ]
+  },
+  {
+    "objectID": "team.html#evaluation",
+    "href": "team.html#evaluation",
+    "title": "Meet the Team",
+    "section": "Evaluation",
+    "text": "Evaluation\nJennifer Williams, PhD — University of Arizona, Program Evaluator",
+    "crumbs": [
+      "Meet the Team"
+    ]
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "AIM 1: Data in the Wild - UA Track\n\nList resources / links here…\n\nAIM 1: Data in the Wild - LC Track\nAIM 3: Faculty Development Modules\nK-12 Lessons",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "resources.html#publications",
+    "href": "resources.html#publications",
+    "title": "Resources",
+    "section": "",
+    "text": "[Publications from this grant will be listed here]",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "resources.html#presentations",
+    "href": "resources.html#presentations",
+    "title": "Resources",
+    "section": "Presentations",
+    "text": "Presentations\nWork from this program was presented at:\n\nResearch Bazaar Arizona (ResBazAZ)\nLewis & Clark Festival of Scholars\nSociety for Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS)\n\n[Additional presentations and posters will be listed here]",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "resources.html#curriculum-course-materials",
+    "href": "resources.html#curriculum-course-materials",
+    "title": "Resources",
+    "section": "",
+    "text": "AIM 1: Data in the Wild - UA Track\n\nList resources / links here…\n\nAIM 1: Data in the Wild - LC Track\nAIM 3: Faculty Development Modules\nK-12 Lessons",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "resources.html#data-sources-used-in-the-program",
+    "href": "resources.html#data-sources-used-in-the-program",
+    "title": "Resources",
+    "section": "Data Sources Used in the Program",
+    "text": "Data Sources Used in the Program\n\nGBIF Global Biodiversity Information Facility\niNaturalist\neBird\nNational Phenology Network\nMODIS",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "resources.html#github",
+    "href": "resources.html#github",
+    "title": "Resources",
+    "section": "GitHub",
+    "text": "GitHub\nOur organization’s GitHub page:\ngithub.com/BiodiversityDataScienceCorp",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Building Capacity in Data Science",
+    "section": "",
+    "text": "This NSF-funded Data Science Corps (DSC) program was a collaboration between the University of Arizona (UA) and Lewis & Clark College (LC) to develop and test data science education grounded in biodiversity and conservation. The program addressed a well-documented gap: most STEM undergraduates encounter data science too late in their training, and faculty across disciplines lack the support needed to teach it effectively.\nOver the course of this grant, we developed and delivered data science curriculum across four interconnected components, reaching undergraduate students, STEM faculty, and K-12 students across both institutions.",
+    "crumbs": [
+      "Building Capacity in Data Science"
+    ]
+  },
+  {
+    "objectID": "index.html#program-components",
+    "href": "index.html#program-components",
+    "title": "Building Capacity in Data Science",
+    "section": "Program Components",
+    "text": "Program Components\n\nAIM 1: Data in the Wild\nWe developed and launched an introductory data science course using biodiversity and conservation as the narrative context, taught in the general education curriculum at both institutions. The course ran at UA and LC, with tracks tailored to each student population and institutional context.\nExplore AIM 1 →\n\n\nAIM 2: Real-World Experiences\nWe ran a co-convened internship course in which small teams of students from UA and LC worked directly with conservation stakeholders to address real data science problems. Deliverables produced by students were used by partner organizations including the US Fish and Wildlife Service.\nExplore AIM 2 →\n\n\nAIM 3: Faculty Professional Development\nWe delivered a summer professional development program that trained faculty across both institutions in data science pedagogy and supported them in developing modules for deployment in their existing courses.\nExplore AIM 3 →\n\n\nSupplemental: K-12 Data Science Outreach\nIn partnership with The Bio/Diversity Project, undergraduate interns developed and delivered culturally-responsive, place-based data science lessons in Tucson-area Title I schools.\nExplore Supplemental AIM →\n\nAll curriculum developed through this program is openly available and designed to be adaptable for use at other institutions. This program was supported by the National Science Foundation under the Harnessing the Data Revolution (HDR) Data Science Corps (DSC) program.",
+    "crumbs": [
+      "Building Capacity in Data Science"
+    ]
+  },
+  {
+    "objectID": "aim2.html",
+    "href": "aim2.html",
+    "title": "AIM 2: Real-World Experiences",
+    "section": "",
+    "text": "The second component of this program was a co-convened applied data science internship course taught at both UA and LC. Small teams of students from both institutions worked together to address a real data science problem posed by a conservation stakeholder. Each cohort worked with a single partner organization over the course of the semester, producing analyses, models, and other deliverables for direct use by the partner.\nStudents were required to have completed an introductory data science course, such as Data in the Wild, prior to enrolling. Projects involved working with messy, real-world data, communicating with stakeholders with complex needs, reasoning through data ethics, and collaborating across institutions.",
+    "crumbs": [
+      "AIM 2: Real-World Experiences"
+    ]
+  },
+  {
+    "objectID": "aim2.html#overview",
+    "href": "aim2.html#overview",
+    "title": "AIM 2: Real-World Experiences",
+    "section": "",
+    "text": "The second component of this program was a co-convened applied data science internship course taught at both UA and LC. Small teams of students from both institutions worked together to address a real data science problem posed by a conservation stakeholder. Each cohort worked with a single partner organization over the course of the semester, producing analyses, models, and other deliverables for direct use by the partner.\nStudents were required to have completed an introductory data science course, such as Data in the Wild, prior to enrolling. Projects involved working with messy, real-world data, communicating with stakeholders with complex needs, reasoning through data ethics, and collaborating across institutions.",
+    "crumbs": [
+      "AIM 2: Real-World Experiences"
+    ]
+  },
+  {
+    "objectID": "aim2.html#cohort-projects",
+    "href": "aim2.html#cohort-projects",
+    "title": "AIM 2: Real-World Experiences",
+    "section": "Cohort Projects",
+    "text": "Cohort Projects\n\nUS Fish and Wildlife Service\nOne cohort worked with the US Fish and Wildlife Service to analyze the current and projected future distribution of milkweed species used by monarch butterflies in the desert southwest. The team produced analyses, maps, and species distribution models that were submitted to inform the re-evaluation of monarch butterfly status under the Endangered Species Act.\nStudents worked with a combination of partner-provided data and open datasets including GBIF, iNaturalist, eBird, eButterfly, and MODIS. Preliminary evaluation indicated students found the experience challenging while meaningfully improving their data science skills and engagement. The cohort had strong representation of women and non-binary students.",
+    "crumbs": [
+      "AIM 2: Real-World Experiences"
+    ]
+  },
+  {
+    "objectID": "aim2.html#dissemination",
+    "href": "aim2.html#dissemination",
+    "title": "AIM 2: Real-World Experiences",
+    "section": "Dissemination",
+    "text": "Dissemination\nStudents presented their work at Research Bazaar Arizona (ResBazAZ), the LC Festival of Scholars, and select students presented at the SACNAS national conference.",
+    "crumbs": [
+      "AIM 2: Real-World Experiences"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About the Grant",
+    "section": "",
+    "text": "This program was funded by the National Science Foundation under the Harnessing the Data Revolution (HDR) Data Science Corps (DSC) initiative. It brought together the University of Arizona (UA) and Lewis & Clark College (LC) to build and test data science curriculum that could be integrated into existing undergraduate STEM programs and general education requirements.\nThe program was motivated by a well-documented gap in undergraduate data science education: demand for data-trained professionals has outpaced what higher education produces, and most STEM students do not encounter meaningful data science training until late in their degree, if at all. Rather than creating standalone data science degree programs, this project embedded data science training into curricula students were already taking, using biodiversity and conservation as the context.",
+    "crumbs": [
+      "About the Grant"
+    ]
+  },
+  {
+    "objectID": "about.html#overview",
+    "href": "about.html#overview",
+    "title": "About the Grant",
+    "section": "",
+    "text": "This program was funded by the National Science Foundation under the Harnessing the Data Revolution (HDR) Data Science Corps (DSC) initiative. It brought together the University of Arizona (UA) and Lewis & Clark College (LC) to build and test data science curriculum that could be integrated into existing undergraduate STEM programs and general education requirements.\nThe program was motivated by a well-documented gap in undergraduate data science education: demand for data-trained professionals has outpaced what higher education produces, and most STEM students do not encounter meaningful data science training until late in their degree, if at all. Rather than creating standalone data science degree programs, this project embedded data science training into curricula students were already taking, using biodiversity and conservation as the context.",
+    "crumbs": [
+      "About the Grant"
+    ]
+  },
+  {
+    "objectID": "about.html#institutional-partners",
+    "href": "about.html#institutional-partners",
+    "title": "About the Grant",
+    "section": "Institutional Partners",
+    "text": "Institutional Partners\nUniversity of Arizona UA served as the coordinating organization for the DSC program. As the only four-year Hispanic-Serving Institution (HSI) and land-grant university in Arizona, UA brought research infrastructure, computational resources, and a large, diverse student population. The program was housed in the School of Natural Resources and the Environment within the College of Agriculture and Life Sciences.\nLewis & Clark College LC is a primarily undergraduate liberal arts college in Portland, Oregon. LC contributed expertise in undergraduate pedagogy, student-centered teaching, and quantitative reasoning curriculum. The timing of the grant aligned with LC’s launch of a new general education core requiring quantitative reasoning, making it a platform for the Data in the Wild course.",
+    "crumbs": [
+      "About the Grant"
+    ]
+  },
+  {
+    "objectID": "about.html#broader-impacts",
+    "href": "about.html#broader-impacts",
+    "title": "About the Grant",
+    "section": "Broader Impacts",
+    "text": "Broader Impacts\nThe general education framing of AIM 1 allowed students across all majors to encounter data science early in their undergraduate careers without requiring a dedicated data science degree path. At UA, an HSI, this created pathways for students from groups historically underrepresented in data science and STEM.\nAll curriculum developed through this program was designed to follow FAIR data principles and is openly available for adoption and adaptation.\n[Add more statistics about impact here]",
+    "crumbs": [
+      "About the Grant"
+    ]
+  },
+  {
+    "objectID": "about.html#evaluation",
+    "href": "about.html#evaluation",
+    "title": "About the Grant",
+    "section": "Evaluation",
+    "text": "Evaluation\nProgram evaluation was conducted by Dr. Jennifer Williams using formative and summative frameworks with mixed qualitative and quantitative methods. Evaluation tracked student gains in data science knowledge and confidence, faculty pedagogical practices, program demographics, and longitudinal enrollment and persistence in data science programs.",
+    "crumbs": [
+      "About the Grant"
+    ]
+  },
+  {
+    "objectID": "about.html#support",
+    "href": "about.html#support",
+    "title": "About the Grant",
+    "section": "Support",
+    "text": "Support\nThis project was supported by the National Science Foundation under the Harnessing the Data Revolution (HDR) Data Science Corps (DSC) program.\nFor questions or to learn more about adopting these materials, visit our GitHub organization.",
+    "crumbs": [
+      "About the Grant"
+    ]
+  },
+  {
+    "objectID": "aim1.html",
+    "href": "aim1.html",
+    "title": "AIM 1: Data in the Wild",
+    "section": "",
+    "text": "Data in the Wild is an introductory data science course developed as part of this grant and taught in the general education curriculum at both UA and LC. The course uses biodiversity and conservation as its narrative, guiding students through data science concepts and skills by working with real ecological data to address conservation questions.\nThe course was designed to reach students early in their undergraduate careers, before they might self-select into or out of data science, and to serve students across all majors, not only those already pursuing STEM degrees.",
+    "crumbs": [
+      "AIM 1: Data in the Wild"
+    ]
+  },
+  {
+    "objectID": "aim1.html#overview",
+    "href": "aim1.html#overview",
+    "title": "AIM 1: Data in the Wild",
+    "section": "",
+    "text": "Data in the Wild is an introductory data science course developed as part of this grant and taught in the general education curriculum at both UA and LC. The course uses biodiversity and conservation as its narrative, guiding students through data science concepts and skills by working with real ecological data to address conservation questions.\nThe course was designed to reach students early in their undergraduate careers, before they might self-select into or out of data science, and to serve students across all majors, not only those already pursuing STEM degrees.",
+    "crumbs": [
+      "AIM 1: Data in the Wild"
+    ]
+  },
+  {
+    "objectID": "aim1.html#course-tracks",
+    "href": "aim1.html#course-tracks",
+    "title": "AIM 1: Data in the Wild",
+    "section": "Course Tracks",
+    "text": "Course Tracks\nUniversity of Arizona Taught through the College of Agriculture and Life Sciences with a computational emphasis. The course focuses on R programming, data wrangling, visualization, and analysis. It can serve as preparation for machine learning or AI coursework and is open to students fulfilling general education requirements across all majors.\nLewis & Clark College Taught as part of LC’s quantitative reasoning general education requirement with a statistics emphasis. The course draws on LC’s tradition of student-centered pedagogy and is designed for a broad liberal arts student population.",
+    "crumbs": [
+      "AIM 1: Data in the Wild"
+    ]
+  },
+  {
+    "objectID": "aim1.html#what-students-did",
+    "href": "aim1.html#what-students-did",
+    "title": "AIM 1: Data in the Wild",
+    "section": "What Students Did",
+    "text": "What Students Did\nStudents in both tracks worked with real, publicly available biodiversity and ecological datasets [enter names of datasets/details here] to explore conservation questions. Students applied data science tools to a running narrative across the semester…\nBy the end of the course, students were able to acquire, clean, visualize, and analyze ecological data and communicate their findings in written and visual form.\nCompare UA and LC student outcomes…",
+    "crumbs": [
+      "AIM 1: Data in the Wild"
+    ]
+  },
+  {
+    "objectID": "aim1.html#course-materials",
+    "href": "aim1.html#course-materials",
+    "title": "AIM 1: Data in the Wild",
+    "section": "Course Materials",
+    "text": "Course Materials\nFull course materials are openly available and designed to be adaptable for use at other institutions.\nVisit the Data in the Wild Course Site →",
+    "crumbs": [
+      "AIM 1: Data in the Wild"
+    ]
+  },
+  {
+    "objectID": "aim3.html",
+    "href": "aim3.html",
+    "title": "AIM 3: Faculty Professional Development",
+    "section": "",
+    "text": "The third component of this program addressed the instructional side of the data science education gap. Even when institutions want to integrate data science into existing STEM curricula, faculty often lack the training and support to do so effectively. This program provided that support through a two-part summer professional development sequence offered to faculty at both UA and LC.",
+    "crumbs": [
+      "AIM 3: Faculty Professional Development"
+    ]
+  },
+  {
+    "objectID": "aim3.html#overview",
+    "href": "aim3.html#overview",
+    "title": "AIM 3: Faculty Professional Development",
+    "section": "",
+    "text": "The third component of this program addressed the instructional side of the data science education gap. Even when institutions want to integrate data science into existing STEM curricula, faculty often lack the training and support to do so effectively. This program provided that support through a two-part summer professional development sequence offered to faculty at both UA and LC.",
+    "crumbs": [
+      "AIM 3: Faculty Professional Development"
+    ]
+  },
+  {
+    "objectID": "aim3.html#program-structure",
+    "href": "aim3.html#program-structure",
+    "title": "AIM 3: Faculty Professional Development",
+    "section": "Program Structure",
+    "text": "Program Structure\n\nPart 1: Pedagogical Training\nA six-week online summer program covering evidence-based practices for teaching computational and data science skills.\n\n\nPart 2: Module Development Workshop\nA follow-on six-week workshop in which participants developed data science educational modules for deployment in their own courses.",
+    "crumbs": [
+      "AIM 3: Faculty Professional Development"
+    ]
+  },
+  {
+    "objectID": "aim3.html#participants",
+    "href": "aim3.html#participants",
+    "title": "AIM 3: Faculty Professional Development",
+    "section": "Participants",
+    "text": "Participants\nFaculty and instructional staff from across both institutions participated. Participants brought varying levels of prior experience with data science and programming, and the program was designed to be accessible regardless of background.",
+    "crumbs": [
+      "AIM 3: Faculty Professional Development"
+    ]
+  },
+  {
+    "objectID": "aim3.html#materials",
+    "href": "aim3.html#materials",
+    "title": "AIM 3: Faculty Professional Development",
+    "section": "Materials",
+    "text": "Materials\nData science modules developed through this program are shared openly for use and adaptation at other institutions.\nVisit the Instructional Data Science Pedagogy Site →",
+    "crumbs": [
+      "AIM 3: Faculty Professional Development"
+    ]
+  },
+  {
+    "objectID": "k12.html",
+    "href": "k12.html",
+    "title": "K-12 Data Science Outreach",
+    "section": "",
+    "text": "Through a supplemental award, this program extended its reach into secondary education. In partnership with The Bio/Diversity Project, an established environmental education internship program between UA, Saguaro National Park, and Tucson-area Title I schools, undergraduate interns developed and delivered data science lessons in grades 6-12 classrooms.\nThe supplemental program ran during years 2 and 3 of the active award. It was designed to create an earlier on-ramp to data science education while simultaneously deepening the professional development of the undergraduate interns who delivered the lessons.",
+    "crumbs": [
+      "K-12 Data Science Outreach"
+    ]
+  },
+  {
+    "objectID": "k12.html#overview",
+    "href": "k12.html#overview",
+    "title": "K-12 Data Science Outreach",
+    "section": "Overview",
+    "text": "Overview\nThrough a supplemental award, this program extended its reach into secondary education. In partnership with The Bio/Diversity Project, an established environmental education internship program between UA, Saguaro National Park, and Tucson-area Title I schools, undergraduate interns developed and delivered data science lessons in grades 4-12 classrooms.\nThe supplemental program ran during years 2 and 3 of the active award. It was designed to create an earlier on-ramp to data science education while simultaneously deepening the professional development of the undergraduate interns who delivered the lessons.",
+    "crumbs": [
+      "K-12 Data Science Outreach"
+    ]
+  },
+  {
+    "objectID": "k12.html#the-biodiversity-project-partnership",
+    "href": "k12.html#the-biodiversity-project-partnership",
+    "title": "K-12 Data Science Outreach",
+    "section": "The Bio/Diversity Project Partnership",
+    "text": "The Bio/Diversity Project Partnership\nThe Bio/Diversity Project has operated for over five years, training UA undergraduates to deliver high-quality, culturally-responsive environmental science lessons in Tucson-area Title I schools. For this supplemental award, a data science track was added to the existing internship. Interns received training in data science fundamentals from grant researchers and local conservation organizations, as well as pedagogical training from Bio/Diversity Project staff.",
+    "crumbs": [
+      "K-12 Data Science Outreach"
+    ]
+  },
+  {
+    "objectID": "k12.html#what-we-did",
+    "href": "k12.html#what-we-did",
+    "title": "K-12 Data Science Outreach",
+    "section": "What We Did",
+    "text": "What We Did\nUndergraduate interns worked with partner teachers at Title I middle and high schools to develop and implement data science lessons aligned with Arizona state science standards. Lessons were grounded in local ecology and environmental data and culminated in student-driven action projects in which students used real-world data to investigate their local environment.",
+    "crumbs": [
+      "K-12 Data Science Outreach"
+    ]
+  },
+  {
+    "objectID": "k12.html#curriculum",
+    "href": "k12.html#curriculum",
+    "title": "K-12 Data Science Outreach",
+    "section": "Curriculum",
+    "text": "Curriculum\nLessons developed through this program are openly available through…",
+    "crumbs": [
+      "K-12 Data Science Outreach"
+    ]
+  },
+  {
+    "objectID": "SETUP.html",
+    "href": "SETUP.html",
+    "title": "Setup Instructions for Grant Website",
+    "section": "",
+    "text": "Create a new GitHub repository named something like:\n\nHDR-DSC-Grant\nDataScienceCorps-Website\nBDSC-Grant-Website\n\nClone the repository locally:\ngit clone git@github.com:BiodiversityDataScienceCorp/YOUR-REPO-NAME.git\ncd YOUR-REPO-NAME\nAdd all the files from the grant-site folder:\n\nindex.qmd\nabout.qmd\nteam.qmd\naim2.qmd\naim3.qmd\nk12.qmd\nresources.qmd\n_quarto.yml\nstyles.scss\n.nojekyll\nREADME.md\n\nCreate an images folder and add your logo:\nmkdir images\n# Copy bdsc-logo-hex.png to images/\nAdd a header image (optional):\n\nFind or create an image representing biodiversity/data science\nSave it as images/grant-header.jpg\nOr remove the image line from index.qmd if you don’t want one\n\nPreview the site:\nquarto preview\nRender the site:\nquarto render\nCommit and push:\ngit add .\ngit commit -m \"Initial grant website\"\ngit push\nEnable GitHub Pages:\n\nGo to repository Settings → Pages\nSet source to “Deploy from a branch”\nSelect main branch and /docs folder\nSave\n\n\n\n\n\n\n\nIn index.qmd, find and update:\nThis project is supported by the National Science Foundation under the Harnessing the Data Revolution (HDR) Data Science Corps (DSC) program.\nAdd: Grant Number [YOUR-NSF-AWARD-NUMBER]\n\n\n\nIf you want a header image on the landing page: 1. Add an appropriate image to images/grant-header.jpg 2. Keep the line in index.qmd: ![](images/grant-header.jpg){fig-alt=\"Biodiversity and data science\"}\nIf you don’t want a header image: 1. Remove or comment out that line in index.qmd\n\n\n\nWhen you have materials ready for AIMs 2, 3, or K-12:\nIn _quarto.yml, update the href from aim2.qmd to the actual URL:\n- text: \"AIM 2: Real-World Experiences\"\n  href: https://link-to-aim2-site.github.io/\n\n\n\nTo change the color scheme, edit styles.scss:\n// Change these colors to match your branding\n$dark-blue: #1E4557;\n$blanched-almond: #FFEBCD;\n$magenta: #8A1665;\n\n\n\n\n\n\n\n\n\n\n\nFile\nPurpose\n\n\n\n\nindex.qmd\nMain landing page with overview of all AIMs\n\n\nabout.qmd\nDetailed grant description, intellectual merit, broader impacts\n\n\nteam.qmd\nProject team, PIs, senior personnel, cores\n\n\naim2.qmd\nReal-world internship experiences details\n\n\naim3.qmd\nFaculty professional development program\n\n\nk12.qmd\nK-12 outreach through Bio/Diversity Project\n\n\nresources.qmd\nPublications, materials, external links\n\n\n_quarto.yml\nSite configuration and navigation\n\n\nstyles.scss\nCustom styling matching Data in the Wild\n\n\n\n\n\n\nAll content is in .qmd (Quarto Markdown) files. To update:\n\nEdit the relevant .qmd file\nPreview changes: quarto preview\nRender: quarto render\nCommit and push to update live site\n\n\n\n\nSite not updating on GitHub Pages? - Make sure you’ve rendered (quarto render) before pushing - Check that GitHub Pages is pointing to /docs folder - Wait a few minutes for GitHub to rebuild\nPreview not working? - Make sure Quarto is installed: quarto --version - Check that all file paths are correct - Ensure images/bdsc-logo-hex.png exists\nStyling looks wrong? - Verify styles.scss is in the root directory - Check that _quarto.yml references styles.scss correctly - Clear browser cache and refresh\n\n\n\n\n✅ Create repository and add files\n✅ Preview locally to verify everything works\n✅ Add your logo and optional header image\n✅ Update NSF award number\n✅ Deploy to GitHub Pages\n🔄 Share URL with team for feedback\n🔄 Update content as materials become available\n\n\n\n\nIf you need help or want to make changes to the design, let me know!"
+  },
+  {
+    "objectID": "SETUP.html#quick-start",
+    "href": "SETUP.html#quick-start",
+    "title": "Setup Instructions for Grant Website",
+    "section": "",
+    "text": "Create a new GitHub repository named something like:\n\nHDR-DSC-Grant\nDataScienceCorps-Website\nBDSC-Grant-Website\n\nClone the repository locally:\ngit clone git@github.com:BiodiversityDataScienceCorp/YOUR-REPO-NAME.git\ncd YOUR-REPO-NAME\nAdd all the files from the grant-site folder:\n\nindex.qmd\nabout.qmd\nteam.qmd\naim2.qmd\naim3.qmd\nk12.qmd\nresources.qmd\n_quarto.yml\nstyles.scss\n.nojekyll\nREADME.md\n\nCreate an images folder and add your logo:\nmkdir images\n# Copy bdsc-logo-hex.png to images/\nAdd a header image (optional):\n\nFind or create an image representing biodiversity/data science\nSave it as images/grant-header.jpg\nOr remove the image line from index.qmd if you don’t want one\n\nPreview the site:\nquarto preview\nRender the site:\nquarto render\nCommit and push:\ngit add .\ngit commit -m \"Initial grant website\"\ngit push\nEnable GitHub Pages:\n\nGo to repository Settings → Pages\nSet source to “Deploy from a branch”\nSelect main branch and /docs folder\nSave"
+  },
+  {
+    "objectID": "SETUP.html#customization",
+    "href": "SETUP.html#customization",
+    "title": "Setup Instructions for Grant Website",
+    "section": "",
+    "text": "In index.qmd, find and update:\nThis project is supported by the National Science Foundation under the Harnessing the Data Revolution (HDR) Data Science Corps (DSC) program.\nAdd: Grant Number [YOUR-NSF-AWARD-NUMBER]\n\n\n\nIf you want a header image on the landing page: 1. Add an appropriate image to images/grant-header.jpg 2. Keep the line in index.qmd: ![](images/grant-header.jpg){fig-alt=\"Biodiversity and data science\"}\nIf you don’t want a header image: 1. Remove or comment out that line in index.qmd\n\n\n\nWhen you have materials ready for AIMs 2, 3, or K-12:\nIn _quarto.yml, update the href from aim2.qmd to the actual URL:\n- text: \"AIM 2: Real-World Experiences\"\n  href: https://link-to-aim2-site.github.io/\n\n\n\nTo change the color scheme, edit styles.scss:\n// Change these colors to match your branding\n$dark-blue: #1E4557;\n$blanched-almond: #FFEBCD;\n$magenta: #8A1665;"
+  },
+  {
+    "objectID": "SETUP.html#file-overview",
+    "href": "SETUP.html#file-overview",
+    "title": "Setup Instructions for Grant Website",
+    "section": "",
+    "text": "File\nPurpose\n\n\n\n\nindex.qmd\nMain landing page with overview of all AIMs\n\n\nabout.qmd\nDetailed grant description, intellectual merit, broader impacts\n\n\nteam.qmd\nProject team, PIs, senior personnel, cores\n\n\naim2.qmd\nReal-world internship experiences details\n\n\naim3.qmd\nFaculty professional development program\n\n\nk12.qmd\nK-12 outreach through Bio/Diversity Project\n\n\nresources.qmd\nPublications, materials, external links\n\n\n_quarto.yml\nSite configuration and navigation\n\n\nstyles.scss\nCustom styling matching Data in the Wild"
+  },
+  {
+    "objectID": "SETUP.html#updating-content",
+    "href": "SETUP.html#updating-content",
+    "title": "Setup Instructions for Grant Website",
+    "section": "",
+    "text": "All content is in .qmd (Quarto Markdown) files. To update:\n\nEdit the relevant .qmd file\nPreview changes: quarto preview\nRender: quarto render\nCommit and push to update live site"
+  },
+  {
+    "objectID": "SETUP.html#troubleshooting",
+    "href": "SETUP.html#troubleshooting",
+    "title": "Setup Instructions for Grant Website",
+    "section": "",
+    "text": "Site not updating on GitHub Pages? - Make sure you’ve rendered (quarto render) before pushing - Check that GitHub Pages is pointing to /docs folder - Wait a few minutes for GitHub to rebuild\nPreview not working? - Make sure Quarto is installed: quarto --version - Check that all file paths are correct - Ensure images/bdsc-logo-hex.png exists\nStyling looks wrong? - Verify styles.scss is in the root directory - Check that _quarto.yml references styles.scss correctly - Clear browser cache and refresh"
+  },
+  {
+    "objectID": "SETUP.html#next-steps",
+    "href": "SETUP.html#next-steps",
+    "title": "Setup Instructions for Grant Website",
+    "section": "",
+    "text": "✅ Create repository and add files\n✅ Preview locally to verify everything works\n✅ Add your logo and optional header image\n✅ Update NSF award number\n✅ Deploy to GitHub Pages\n🔄 Share URL with team for feedback\n🔄 Update content as materials become available"
+  },
+  {
+    "objectID": "SETUP.html#questions",
+    "href": "SETUP.html#questions",
+    "title": "Setup Instructions for Grant Website",
+    "section": "",
+    "text": "If you need help or want to make changes to the design, let me know!"
+  },
+  {
+    "objectID": "aim2.html#projects",
+    "href": "aim2.html#projects",
+    "title": "AIM 2: Real-World Experiences",
+    "section": "Projects",
+    "text": "Projects\nExample student projects here?",
+    "crumbs": [
+      "AIM 2: Real-World Experiences"
+    ]
+  },
+  {
+    "objectID": "aim2.html#course-materials",
+    "href": "aim2.html#course-materials",
+    "title": "AIM 2: Real-World Experiences",
+    "section": "Course Materials",
+    "text": "Course Materials\nFull course materials are openly available and designed to be adaptable for use at other institutions.\nVisit the Applied Data Science Course Site →",
+    "crumbs": [
+      "AIM 2: Real-World Experiences"
+    ]
+  }
+]

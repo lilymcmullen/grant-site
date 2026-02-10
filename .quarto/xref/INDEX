@@ -1,0 +1,33 @@
+{
+  "about.qmd": {
+    "about.html": "2ef59947",
+    "about.tex": "df76de91"
+  },
+  "aim2.qmd": {
+    "aim2.html": "9961856f"
+  },
+  "aim3.qmd": {
+    "aim3.html": "667a2270"
+  },
+  "index.qmd": {
+    "index.html": "35f94a8f"
+  },
+  "k12.qmd": {
+    "k12.html": "445466cb",
+    "k12.tex": "4590fe69"
+  },
+  "resources.qmd": {
+    "resources.html": "d1b99426",
+    "resources.tex": "5c167b92"
+  },
+  "SETUP.md": {
+    "SETUP.html": "e91120d1"
+  },
+  "team.qmd": {
+    "team.html": "1745e3f9",
+    "team.tex": "59f21540"
+  },
+  "aim1.qmd": {
+    "aim1.html": "afc2cdc1"
+  }
+}

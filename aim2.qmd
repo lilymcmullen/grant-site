@@ -1,0 +1,20 @@
+---
+title: "AIM 2: Real-World Experiences"
+subtitle: "Broadening Participation Through Real-World Experiences"
+---
+
+## Overview
+
+The second component of this program was a co-convened applied data science internship course taught at both UA and LC. Small teams of students from both institutions worked together to address a real data science problem posed by a conservation stakeholder. Each cohort worked with a single partner organization over the course of the semester, producing analyses, models, and other deliverables for direct use by the partner.
+
+Students were required to have completed an introductory data science course, such as *Data in the Wild*, prior to enrolling. Projects involved working with messy, real-world data, communicating with stakeholders with complex needs, reasoning through data ethics, and collaborating across institutions.
+
+## Projects
+
+Example student projects here?
+
+## Course Materials
+
+Full course materials are openly available and designed to be adaptable for use at other institutions.
+
+[**Visit the Applied Data Science Course Site →**](https://biodiversitydatasciencecorp.github.io/ADS_Cannonical_Version/home.html){target="_blank"}

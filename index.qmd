@@ -1,0 +1,41 @@
+---
+title: "Building Capacity in Data Science"
+subtitle: "Through Biodiversity, Conservation, and General Education"
+format:
+  html:
+    toc: false
+---
+
+This NSF-funded Data Science Corps (DSC) program was a collaboration between the **University of Arizona** (UA) and **Lewis & Clark College** (LC) to develop and test data science education grounded in biodiversity and conservation. The program addressed a well-documented gap: most STEM undergraduates encounter data science too late in their training, and faculty across disciplines lack the support needed to teach it effectively.
+
+Over the course of this grant, we developed and delivered data science curriculum across four interconnected components, reaching undergraduate students, STEM faculty, and K-12 students across both institutions.
+
+## Program Components
+
+### **AIM 1: Data in the Wild**
+
+We developed and launched an introductory data science course using biodiversity and conservation as the narrative context, taught in the general education curriculum at both institutions. The course ran at UA and LC, with tracks tailored to each student population and institutional context.
+
+[Explore AIM 1 →](aim1.qmd)
+
+### **AIM 2: Real-World Experiences**
+
+We ran a co-convened internship course in which small teams of students from UA and LC worked directly with conservation stakeholders to address real data science problems. Deliverables produced by students were used by partner organizations including the US Fish and Wildlife Service.
+
+[Explore AIM 2 →](aim2.qmd)
+
+### **AIM 3: Faculty Professional Development**
+
+We delivered a summer professional development program that trained faculty across both institutions in data science pedagogy and supported them in developing modules for deployment in their existing courses.
+
+[Explore AIM 3 →](aim3.qmd)
+
+### **Supplemental: K-12 Data Science Outreach**
+
+In partnership with The Bio/Diversity Project, undergraduate interns developed and delivered culturally-responsive, place-based data science lessons in Tucson-area Title I schools.
+
+[Explore Supplemental AIM →](k12.qmd)
+
+------------------------------------------------------------------------
+
+All curriculum developed through this program is openly available and designed to be adaptable for use at other institutions. This program was supported by the National Science Foundation under the Harnessing the Data Revolution (HDR) Data Science Corps (DSC) program.
